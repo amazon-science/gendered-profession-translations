@@ -54,16 +54,13 @@ ROOT
 ## Citing
 
 ```
-@inproceedings{niu-etal-2021-faithful,
-    title = "Faithful Target Attribute Prediction in Neural Machine Translation",
-    author = "Niu, Xing  and
-      Dinu, Georgiana and 
-      Mathur, Prashant  and
-      Currey, Anna"
-    booktitle = "",
-    month = sep,
-    year = "2021",
-    publisher = "",
+@misc{niu2021faithful,
+      title={Faithful Target Attribute Prediction in Neural Machine Translation}, 
+      author={Xing Niu and Georgiana Dinu and Prashant Mathur and Anna Currey},
+      year={2021},
+      eprint={2109.12105},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 

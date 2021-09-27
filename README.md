@@ -1,7 +1,7 @@
 # Gender Profession Data
 
 ## Data
-This repository contains the data used in the paper [Faithful Target Attribute Prediction in Neural Machine Translation](url) by Xing Niu, Georgiana Dinu, Prashant Mathur and Anna Currey. 
+This repository contains the data used in the paper [Faithful Target Attribute Prediction in Neural Machine Translation](https://arxiv.org/abs/2109.12105) by Xing Niu, Georgiana Dinu, Prashant Mathur and Anna Currey. 
 
 We combine three profession lists collected by [Rudinger et. al. (2019)](https://aclanthology.org/N18-2002/), [Zhao et. al. (2018)](https://aclanthology.org/D17-1323/), and [Prates et. al. (2022)](https://link.springer.com/article/10.1007%2Fs00521-019-04144-6) which yields 1054 distinct English gender-neutral professions. These professions can be either a single word (e.g., singer) or a phrase (e.g., flight attendant). 
 
